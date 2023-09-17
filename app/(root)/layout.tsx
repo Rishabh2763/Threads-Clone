@@ -25,7 +25,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html lang='en'>
         <head>
-          <link rel='icon' href='/favicon.ico'/>
+          <link rel='icon' href='C:\PERSONAL\NextJs\threads-clone\app\favicon.ico'/>
         </head>
         <body className={`${inter.className} `}>
           <Topbar/>
